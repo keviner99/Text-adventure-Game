@@ -1,0 +1,15 @@
+C:\Kevin\BYU-Idaho\2025\term 4\CSE 310 Applied Programming\Text adventure Game\bin\Debug\net10.0\Text adventure Game.exe
+C:\Kevin\BYU-Idaho\2025\term 4\CSE 310 Applied Programming\Text adventure Game\bin\Debug\net10.0\Text adventure Game.deps.json
+C:\Kevin\BYU-Idaho\2025\term 4\CSE 310 Applied Programming\Text adventure Game\bin\Debug\net10.0\Text adventure Game.runtimeconfig.json
+C:\Kevin\BYU-Idaho\2025\term 4\CSE 310 Applied Programming\Text adventure Game\bin\Debug\net10.0\Text adventure Game.dll
+C:\Kevin\BYU-Idaho\2025\term 4\CSE 310 Applied Programming\Text adventure Game\bin\Debug\net10.0\Text adventure Game.pdb
+C:\Kevin\BYU-Idaho\2025\term 4\CSE 310 Applied Programming\Text adventure Game\obj\Debug\net10.0\Text adventure Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kevin\BYU-Idaho\2025\term 4\CSE 310 Applied Programming\Text adventure Game\obj\Debug\net10.0\Text adventure Game.AssemblyInfoInputs.cache
+C:\Kevin\BYU-Idaho\2025\term 4\CSE 310 Applied Programming\Text adventure Game\obj\Debug\net10.0\Text adventure Game.AssemblyInfo.cs
+C:\Kevin\BYU-Idaho\2025\term 4\CSE 310 Applied Programming\Text adventure Game\obj\Debug\net10.0\Text adventure Game.csproj.CoreCompileInputs.cache
+C:\Kevin\BYU-Idaho\2025\term 4\CSE 310 Applied Programming\Text adventure Game\obj\Debug\net10.0\Text adventure Game.sourcelink.json
+C:\Kevin\BYU-Idaho\2025\term 4\CSE 310 Applied Programming\Text adventure Game\obj\Debug\net10.0\Text adventure Game.dll
+C:\Kevin\BYU-Idaho\2025\term 4\CSE 310 Applied Programming\Text adventure Game\obj\Debug\net10.0\refint\Text adventure Game.dll
+C:\Kevin\BYU-Idaho\2025\term 4\CSE 310 Applied Programming\Text adventure Game\obj\Debug\net10.0\Text adventure Game.pdb
+C:\Kevin\BYU-Idaho\2025\term 4\CSE 310 Applied Programming\Text adventure Game\obj\Debug\net10.0\Text adventure Game.genruntimeconfig.cache
+C:\Kevin\BYU-Idaho\2025\term 4\CSE 310 Applied Programming\Text adventure Game\obj\Debug\net10.0\ref\Text adventure Game.dll
