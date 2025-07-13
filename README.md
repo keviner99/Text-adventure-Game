@@ -18,7 +18,7 @@ The purpose of writing this software was to demonstrate key concepts of the C# p
 
 7. Structures
 
-[Software Demo Video](link here)
+[Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
@@ -27,9 +27,7 @@ The purpose of writing this software was to demonstrate key concepts of the C# p
 - [x] C# Compiler (part of the .NET SDK) to compile and run the program.
 - [x] Terminal to run the game and interact with input/output.
 
-C#
-System
-System.IO
+C#, System, System.IO
 
 # Useful Websites
 
