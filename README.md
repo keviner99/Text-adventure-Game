@@ -1,32 +1,43 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+I wrote a text-based adventure game in C#. In the game, the player takes on the role of a medieval character who wakes up far from home. The player can choose different paths such as exploring a dark forest, climbing misty mountains, or visiting a village. Each choice leads to unique events, possible damage, and opportunities to collect gold or items. The game uses text prompts to let the player decide what to do, creating an interactive storytelling experience.
 
-{Provide a description of the software that you wrote to demonstrate the C# language.}
+The purpose of writing this software was to demonstrate key concepts of the C# programming language such as:
 
-{Describe your purpose for writing this software.}
+1. Variables
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
+2. Expressions
 
-[Software Demo Video](http://youtube.link.goes.here)
+3. Conditionals
+
+4. Loops
+
+5. Functions (methods)
+
+6. Classes
+
+7. Structures
+
+[Software Demo Video](link here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+- [x] .NET SDK / CLI to create and build the project.
+- [x] Visual Studio Code to edit the C# code.
+- [x] C# Compiler (part of the .NET SDK) to compile and run the program.
+- [x] Terminal to run the game and interact with input/output.
 
-{Describe the programming language that you used and any libraries.}
+C#
+System
+System.IO
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [Microsoft C#](https://learn.microsoft.com/es-mx/dotnet/csharp/)
+- [w3 Schools](https://www.w3schools.com/cs/index.php)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- The program only writes to a file. Needs reading implementation.
+- Implement abstract classes.
+- Implement classes inherit from other classes.
