@@ -18,7 +18,7 @@ The purpose of writing this software was to demonstrate key concepts of the C# p
 
 7. Structures
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=aU93uLYve_Y)
 
 # Development Environment
 
